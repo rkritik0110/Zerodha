@@ -216,10 +216,6 @@ The project can be deployed on platforms like Vercel, Netlify, or any other stat
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 
 This project is inspired by the Zerodha trading platform, with a focus on replicating its design and user experience for educational purposes.
